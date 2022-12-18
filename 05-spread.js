@@ -15,4 +15,4 @@ const updatedUser = {
 };
 
 console.log({ user });
-console.log({ updatedUser });
+console.log({ updatedUser });                                 
